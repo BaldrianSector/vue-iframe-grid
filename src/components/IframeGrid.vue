@@ -22,7 +22,7 @@ export default {
         };
     },
     created() {
-        fetch('src/assets/websites.json')
+        fetch('/websites.json')
             .then(response => response.json())
             .then(data => {
                 this.websites = data;
