@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Vanilla Project",
+        "url": "https://cd-vanilla-project.netlify.app/"
+    },
+    {
+        "name": "Vite Vanilla Project",
+        "url": "https://cd-vite-vanilla-project.netlify.app/"
+    },
+    {
+        "name": "Vite Vue Project",
+        "url": "https://cd-vite-vue-project.netlify.app/"
+    },
+    {
+        "name": "Vite React Project",
+        "url": "https://cd-vite-react-project.netlify.app/"
+    }
+]
