@@ -15,7 +15,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 #app {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -24,12 +24,19 @@ export default {
   background-color: #242424; /* Match the background color */
   color: rgba(255, 255, 255, 0.87); /* Text color */
   padding: 32px; /* Space around the content */
-  height: 1200px;
+  height: 1660px;
 }
 
 h1 {
   font-size: 2.5em;
   margin-bottom: 24px;
   color: #ffffff; /* Highlighted header color */
+}
+
+IframeGrid {
+  width: calc(75px * var(--myScale));
+  height: calc(75px * var(--myScale));
+  transform: scale(var(--myScale));
+  transform-origin: top left;
 }
 </style>
