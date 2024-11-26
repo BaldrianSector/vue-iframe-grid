@@ -1,7 +1,7 @@
 [
     {
-        "name": "Vanilla Project",
-        "url": "https://cd-vanilla-project.netlify.app/"
+        "name": "Vite p5 Project",
+        "url": "https://cd-vite-p5-project.netlify.app/"
     },
     {
         "name": "Vite Vanilla Project",
@@ -20,7 +20,7 @@
         "url": "https://cd-vite-react-project.netlify.app/"
     },
     {
-        "name": "Vite React Project Copy2",
-        "url": "https://cd-vite-react-project.netlify.app/"
+        "name": "Vanilla Project",
+        "url": "https://cd-vanilla-project.netlify.app/"
     }
 ]
